@@ -16,7 +16,7 @@ This is the example of zombie defence fps game. Kill the zombies to obtain the c
 
 
 ## Why it has unused "multiplayed" related scripts?
-Because I want to make this game online, but I gave up. I realized that I need more study about them, but some of the script can be useful for later use.
+Because I want to make this game a multiplayer shooter. I realized that I need more study about them, but some of the script can be useful for later use.
 That's because I remained unusing network related resources.
 
 
